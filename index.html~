@@ -11,7 +11,7 @@
     <link rel="apple-touch-icon" href="icon.png" />
 
 		<!-- EDIT: title -->
-    <title>Aki's Resumé</title>
+    <title>My Awesome Resume</title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.css" rel="stylesheet">
@@ -40,9 +40,9 @@
 			<div class="row centered">
 				<div class="col-lg-12">
 					<!-- EDIT: name -->
-					<h1>Aki Härkönen</h1>
+					<h1>Your Name</h1>
 					<!-- EDIT: title | email -->
-					<h3>IT professional | <a href="mailto:aki.harkonen@gmail.com" target="_blank">aki.harkonen@gmail.com</a></h3>
+					<h3>Web Designer | <a href="mailto:YOU@EMAIL.com" target="_blank">YOU@EMAIL.com</a></h3>
 				</div><!--/.col-lg-12 -->
 			</div><!--/.row -->
 		</div><!--/.container -->
@@ -59,7 +59,7 @@
 				</div>
 				<div class="col-lg-6">
 					<!-- EDIT: about -->
-					<p>I'm skilled IT-professional, with many skills. I've done all this: Internal IT-support, IT-team management, WEB-Site -administration, -design, -maintenance,Technical support... you name it! I've dedicated my life to learning new, maintaining good health and enjoying life.</p>
+					<p>This is a short description of who you are. Keep it to about 3 sentences and make sure to highlight the key points about you. What makes you stand out as an applicant?</p>
 				</div>
 				<div class="col-lg-3">
 					<!-- EDIT: download link -->
@@ -81,26 +81,26 @@
 				</div>
 				<!-- EDIT: education line 1 -->
 				<div class="col-lg-6">
-					<p><t>Computer technician</t><br/>
-						Pohjois-Savo Polytechnic
+					<p><t>Bachelor of Awesomeness</t><br/>
+						University of Maryland
 						<!--<br/><i>Extra info here</i>-->
 					</p>
 				</div>
 				<div class="col-lg-3">
-					<p><sm>1996</sm><br/>
-					<imp><sm>Completed</sm></imp>
+					<p><sm>Expected SPRING 2015</sm><br/>
+					<imp><sm>IN PROGRESS</sm></imp>
 					</p>
 				</div>
 	
 				<!-- EDIT: education line 2 -->
 				<div class="col-lg-6 col-lg-offset-3">
-					<p><t>Leadership training</t><br/>
-						 Omnia
+					<p><t>Associate of Degrees </t><br/>
+						 Lil 'ol College
 						<!--<br/><i>Extra info here</i>-->
 					</p>
 				</div>
 				<div class="col-lg-3">
-					<p><sm>2008</sm></p>
+					<p><sm>JUNE 2012</sm></p>
 				</div>
 	
 		</div><!--/.row -->
@@ -118,24 +118,24 @@
 				<!-- EDIT: work line 1 -->
 				<div class="col-lg-6">
 					<p class="tight"><t>Position </t><br/>
-						Cybercom <br/>
+						Thatone Corp. <br/>
 					</p>
-					<p><more>Technical Specialist at Suomi.fi E-Identification</more></p>
+					<p><more>Here's where you put a description of the position you held. Responsibilities, accomplishments - the same as you would do on a standard paper resume, but this will be online and look cooler.</more></p>
 				</div>
 				<div class="col-lg-3">
-					<p><sm>November 2016 - CURRENT <br />
-					Helsinki, Finland</sm></p>
+					<p><sm>AUGUST 2012 - CURRENT <br />
+					CITY, STATE, COUNTRY</sm></p>
 				</div>
 				
 				<!-- EDIT: work line 2-->
 				<div class="col-lg-6 col-lg-offset-3">
 					<p class="tight"><t>Previous Position</t><br/>
-						Cybercom <br/>
+						Another Organization Ltd. <br/>
 					</p>
-					<p><more>Infra service manager</more></p>
+					<p><more>You worked at another job! Great! Describe what you did there, include those responsibilities and accomplishments again.</more></p>
 				</div>
 				<div class="col-lg-3">
-					<p><sm>JAN 2012 - NOV 2016 <br />
+					<p><sm>JUNE 2010 - JULY 2012 <br />
 					GOTHAM CITY, USA</sm></p>
 				</div>
 		</div><!--/.row -->
